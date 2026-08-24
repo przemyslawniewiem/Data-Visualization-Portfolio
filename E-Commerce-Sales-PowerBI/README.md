@@ -54,7 +54,7 @@ An advanced overview of geographical performance and supply chain efficiency.
 *   **What it shows:** A Map visual for revenue distribution, a Scatter Plot (Bubble chart) correlating Total Cost vs. Total Revenue by state, and a line chart tracking average delivery days.
 *   **Insight:** The Scatter plot clearly isolates outliers—states with high costs but low revenue (bubbles on the far right, low on the Y-axis). The delivery time analysis shows dynamic fluctuations between 1.5 and 3.5 days, highlighting potential logistical bottlenecks across different states.
 
-![Geospatial ROI](05_geospatial_roi.jpg)
+![Geospatial ROI](05_geospatial_roi.png)
 
 ### 5. Product-Level Performance (Top Sellers)
 A highly granular view for inventory and catalog management.
